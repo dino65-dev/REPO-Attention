@@ -3,7 +3,7 @@ RePo: Language Models with Context Re-Positioning by Sakana AI
 
 ## About REPO
 
-**REPO** (Context Re-Positioning) is a research paper by [Sakana AI](https://sakana.ai) that addresses challenges in long-context language models through a novel approach to context handling.
+**[REPO](https://pub.sakana.ai/repo/)** (Context Re-Positioning) is a research paper by [Sakana AI](https://sakana.ai) that addresses challenges in long-context language models through a novel approach to context handling.
 
 ### Overview
 
